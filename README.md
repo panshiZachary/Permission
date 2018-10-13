@@ -9,7 +9,7 @@
 	}
   
   	dependencies {
-	        implementation 'com.github.zhangke666:Permission:v1.0'
+	        implementation 'com.github.panshiZachary:Permission:v1.0'
 	}
   
   
